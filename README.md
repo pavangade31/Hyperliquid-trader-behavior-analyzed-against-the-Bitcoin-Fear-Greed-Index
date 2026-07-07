@@ -26,7 +26,7 @@ The notebook saves the following charts into a `charts/` folder when you run it:
 Place the two raw files inside **data/raw/**:
 
 - `fear_greed_index.csv`
-- `historical_data.csv`
+- `historical_data.csv` Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ## How the analysis works
 
