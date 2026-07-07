@@ -1,0 +1,1 @@
+# Hyperliquid-trader-behavior-analyzed-against-the-Bitcoin-Fear-Greed-Index
